@@ -27,8 +27,8 @@ author:
   bio: "Associate Professor @ Sungkyunkwan University"
   email: "hojoon.lee@skku.edu"
 
-  location: "Suwon, South Korea"
-  employer: "Sungkyunkwan University"
+  # location: "Suwon, South Korea"
+  # employer: "Sungkyunkwan University"
   uri: # URL
 
   # Academic websites
