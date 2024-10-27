@@ -45,9 +45,9 @@ Publications
 
 <ppub>
 
-<p><strong>uMMU: Securing Data Confidentiality with Unobservable Memory Subsystem (To Appear)</strong> <br>
+<p><strong>uMMU: Securing Data Confidentiality with Unobservable Memory Subsystem</strong> <br>
   <em>Hajeong Lim, Jaeyoon Kim, Hojoon Lee</em><br>
-  <strong>ACM Conference on Computer and Communications Security (ACM CCS) 2024</strong>&nbsp;&nbsp;&nbsp;
+  <strong>ACM Conference on Computer and Communications Security (ACM CCS) 2024</strong>&nbsp;<u>(Distinguished Paper Award)</u>&nbsp;<a href="https://dl.acm.org/doi/10.1145/3576915.3623079"><span class="glyphicon glyphicon-file gi-7x"></span></a>&nbsp;
  <br></p>
 
 <p><strong>RustSan: Retrofitting AddressSanitizer for Efficient Sanitization of Rust</strong> <br>
