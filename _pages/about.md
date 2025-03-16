@@ -45,6 +45,13 @@ Publications
 
 <ppub>
 
+<p><strong>IncognitOS: A Practical Unikernel Design for Full-System Obfuscation in Confidential Virtual Machines (To Appear)</strong> <br>
+  <em>Kha Dinh Duy, Jaeyoon Kim, Hajeong Lim, Hojoon Lee</em><br>
+  <strong>IEEE Symposium on Security and Privacy (IEEE S&P) 2025</strong>
+ <br></p>
+
+
+
 <p><strong>uMMU: Securing Data Confidentiality with Unobservable Memory Subsystem</strong> <br>
   <em>Hajeong Lim, Jaeyoon Kim, Hojoon Lee</em><br>
   <strong>ACM Conference on Computer and Communications Security (ACM CCS) 2024</strong>&nbsp;<u>(Distinguished Paper Award)</u>&nbsp;<a href="https://dl.acm.org/doi/10.1145/3576915.3623079"><span class="glyphicon glyphicon-file gi-7x"></span></a>&nbsp;
