@@ -45,7 +45,13 @@ Publications
 
 <ppub>
 
-<p><strong>IncognitOS: A Practical Unikernel Design for Full-System Obfuscation in Confidential Virtual Machines (To Appear)</strong> <br>
+<p><strong>PIM-ORAM: Towards Oblivious RAM Primitives in Commodity Processing-In-Memory</strong> <br>
+  <em>Byeongsu Woo, Kha Dinh Duy, Youngkwang Han, Brent Byunghoon Kang, Hojoon Lee</em><br>
+  <strong>Annual Computer Security Applications Conference (ACSAC) 2025</strong>
+ <br></p>
+
+
+<p><strong>IncognitOS: A Practical Unikernel Design for Full-System Obfuscation in Confidential Virtual Machines</strong> <br>
   <em>Kha Dinh Duy, Jaeyoon Kim, Hajeong Lim, Hojoon Lee</em><br>
   <strong>IEEE Symposium on Security and Privacy (IEEE S&P) 2025</strong>
  <br></p>
